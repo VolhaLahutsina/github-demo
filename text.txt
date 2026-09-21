@@ -2,3 +2,4 @@ New file Kate
 updated
 test
 This is my test
+New line for test purposes
